@@ -27,5 +27,3 @@ The original dataset contained 6.9 million records and 40 categorical variables,
 
 ## Model Training and Evaluation
 A variety of machine learning models, including logistic regression, decision trees, and gradient boosting, were trained and evaluated using precision and recall metrics. Random forests emerged as the best performer for predicting ADHD, Anxiety, and Depression.
-
-This readme provides an overview of the Mental Health Prediction in Teens Project, including its objectives, data sources, preprocessing steps, and model training.
